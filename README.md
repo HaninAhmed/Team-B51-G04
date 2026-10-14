@@ -27,8 +27,6 @@ A work item is considered Done when it:
 
 GitHub Project (Scrum board): https://github.com/users/HaninAhmed/projects/2/views/1
 
-## Repository Structure
-
 
 ## Declaration
 
