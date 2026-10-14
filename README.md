@@ -29,8 +29,6 @@ GitHub Project (Scrum board): https://github.com/users/HaninAhmed/projects/2/vie
 
 ## Repository Structure
 
-- `Member1_DFD/` — DFD diagrams, flow tables, and boundary-flow checklist (Rana)
-- *(باقي المجلدات حسب تسليمات باقي الأعضاء)*
 
 ## Declaration
 
