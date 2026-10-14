@@ -1,17 +1,37 @@
-# PearlMart DFD deliverables — Member 1
+# PearlMart Inventory Management System — Team B51-G04
 
-Corrected DFD contribution for Milestone 1 / GitHub Issue #13.
+CMPS310 Software Engineering — Fall 2026 — Milestone 1
 
-## Contents
+## Team Members & Scrum Responsibilities
 
-- `DFD_Level_0_PearlMart.png` / `.svg` — context diagram
-- `DFD_Level_1_PearlMart.png` / `.svg` — six processes and six data stores
-- `DFD_Level_2_Process_4_0.png` / `.svg` — decomposition of sales process 4.0
-- `PearlMart_Milestone1.vpp` — editable Visual Paradigm project
-- `Member1_PearlMart_DFD_Report.docx` — corrected report with diagrams and validation
-- `PearlMart_DFD_Flow_Specification.md` — named flows and process/store definitions
-- `Boundary_Flow_Checklist.md` — Level 0/Level 1 and Process 4.0 balancing
-- `GitHub_Issue_13_Evidence.md` — local acceptance-criteria evidence and scope note
-- `UPLOAD_CHECKLIST.md` — package review checklist
+| Name | GitHub Username | Scrum Role |
+|---|---|---|
+| Rana Aldosari | [Rana-ra1903017](https://github.com/Rana-ra1903017) | Scrum Master |
+| Reem Almarri | [ra230397](https://github.com/ra230397) | Product Owner |
+| Hanin Ahmed | [Hanin-hh2203692](https://github.com/Hanin-hh2203692) | Developer |
+| Jawaher | [Jawaher-04](https://github.com/Jawaher-04) | Developer |
 
-This folder is the DFD contribution only, not the full team Milestone 1 submission. See the repository-level `GROUP_REPORT_STATUS.md`.
+## Product Goal
+
+Deliver a consistent, logically sound analysis and design for the PearlMart Inventory Management System — including DFDs, a use case model, and a class diagram — that accurately reflects the system requirements and is ready to guide implementation in later milestones.
+
+## Definition of Done
+
+A work item is considered Done when it:
+- Is reviewed by at least one other team member
+- Is corrected based on that review
+- Is consistent with all other project artifacts (naming, numbering, terminology)
+- Is saved/committed to the main branch with a linked, merged pull request
+
+## Project Management
+
+GitHub Project (Scrum board): https://github.com/users/HaninAhmed/projects/2/views/1
+
+## Repository Structure
+
+- `Member1_DFD/` — DFD diagrams, flow tables, and boundary-flow checklist (Rana)
+- *(باقي المجلدات حسب تسليمات باقي الأعضاء)*
+
+## Declaration
+
+This project is the original work of the team members listed above.
