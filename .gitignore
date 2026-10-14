@@ -1,0 +1,11 @@
+# Visual Paradigm backup files
+*.vpp.bak_*
+*.vpp.tmp
+*.vpbak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Word temp files
+~$*.docx
