@@ -1,13 +1,12 @@
 # PearlMart Inventory Management System — Team B51-G04
 
-CMPS310 Software Engineering — Fall 2026 — Milestone 1
-
+CMPS310 Software Engineering — Fall 2026 — Milestones 1 and 2
 ## Team Members & Scrum Responsibilities
 
 | Name | GitHub Username | Scrum Role |
 |---|---|---|
 | Rana Aldosari | [Rana-ra1903017](https://github.com/Rana-ra1903017) | Scrum Master |
-| Reem Almarri | [ra230397](https://github.com/ra230397) | Product Owner |
+| Reem Almarri | [ra2303976](https://github.com/ra2303976) | Product Owner |
 | Hanin Ahmed | [Hanin-hh2203692](https://github.com/Hanin-hh2203692) | Developer |
 | Jawaher | [Jawaher-04](https://github.com/Jawaher-04) | Developer |
 
@@ -31,3 +30,7 @@ GitHub Project (Scrum board): https://github.com/users/HaninAhmed/projects/2/vie
 ## Declaration
 
 This project is the original work of the team members listed above.
+
+## Project Structure
+- Milestone-1/: requirements analysis and design (DFD, use cases, class diagram)
+- Milestone-2/: implementation, testing, and sprint documents
